@@ -1,0 +1,5 @@
+F:\Repos\log635lab3\Log635Lab3\bin\Release\Log635Lab3.exe.config
+F:\Repos\log635lab3\Log635Lab3\bin\Release\Log635Lab3.exe
+F:\Repos\log635lab3\Log635Lab3\bin\Release\Log635Lab3.pdb
+F:\Repos\log635lab3\Log635Lab3\obj\Release\Log635Lab3.exe
+F:\Repos\log635lab3\Log635Lab3\obj\Release\Log635Lab3.pdb

@@ -1,0 +1,9 @@
+F:\Repos\log635lab3\Log635Lab3\bin\Debug\Log635Lab3.exe.config
+F:\Repos\log635lab3\Log635Lab3\bin\Debug\Log635Lab3.exe
+F:\Repos\log635lab3\Log635Lab3\bin\Debug\Log635Lab3.pdb
+F:\Repos\log635lab3\Log635Lab3\obj\Debug\Log635Lab3.csprojResolveAssemblyReference.cache
+F:\Repos\log635lab3\Log635Lab3\obj\Debug\Log635Lab3.exe
+F:\Repos\log635lab3\Log635Lab3\obj\Debug\Log635Lab3.pdb
+F:\Repos\log635\Log635Lab3\Log635Lab3\bin\Debug\Log635Lab3.exe.config
+F:\Repos\log635\Log635Lab3\Log635Lab3\obj\Debug\Log635Lab3.exe
+F:\Repos\log635\Log635Lab3\Log635Lab3\obj\Debug\Log635Lab3.pdb

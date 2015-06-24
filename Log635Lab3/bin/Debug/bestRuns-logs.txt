@@ -1,0 +1,3 @@
+Run 0 had params Count=3391 Success=1464 MSE=2.747140 Time=00:13:16.1886724 %=.00
+Run 1 had params Count=3391 Success=1483 MSE=2.681988 Time=00:08:32.3444374 %=.00
+Run 2 had params Count=3391 Success=1464 MSE=2.747140 Time=00:13:16.1886724 %=.00
